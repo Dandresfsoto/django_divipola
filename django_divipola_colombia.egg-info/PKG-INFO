@@ -1,0 +1,27 @@
+Metadata-Version: 1.1
+Name: django-divipola-colombia
+Version: 0.0.1
+Summary: Una app simple para implementar en Django la división político administrativa de colombia Divipola
+Home-page: https://github.com/Dandresfsoto/django_divipola/tree/master/django_divipola_colombia
+Author: Diego Andres Fonseca Soto
+Author-email: dandresfsoto@gmail.com
+License: BSD License
+Description: =====
+        django-divipola-colombia
+        =====
+        
+        django-divipola-colombia es una app simple para implementar en Django la divisiÃ³n polÃ­tico administrativa de colombia Divipola
+        
+        La documentaciÃ³n detallada se encuentra en el directorio "docs".
+Platform: UNKNOWN
+Classifier: Environment :: Web Environment
+Classifier: Framework :: Django
+Classifier: Framework :: Django :: 2.0.5
+Classifier: Intended Audience :: Developers
+Classifier: License :: OSI Approved :: BSD License
+Classifier: Operating System :: OS Independent
+Classifier: Programming Language :: Python
+Classifier: Programming Language :: Python :: 3.5
+Classifier: Programming Language :: Python :: 3.6
+Classifier: Topic :: Internet :: WWW/HTTP
+Classifier: Topic :: Internet :: WWW/HTTP :: Dynamic Content
