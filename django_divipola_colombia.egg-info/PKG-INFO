@@ -6,9 +6,7 @@ Home-page: https://github.com/Dandresfsoto/django_divipola/tree/master/django_di
 Author: Diego Andres Fonseca Soto
 Author-email: dandresfsoto@gmail.com
 License: BSD License
-Description: =====
-        django-divipola-colombia
-        =====
+Description: ##django-divipola-colombia
         
         django-divipola-colombia es una app simple para implementar en Django la divisiÃ³n polÃ­tico administrativa de colombia Divipola
         
@@ -16,7 +14,7 @@ Description: =====
 Platform: UNKNOWN
 Classifier: Environment :: Web Environment
 Classifier: Framework :: Django
-Classifier: Framework :: Django :: 2.0.5
+Classifier: Framework :: Django :: 2.0
 Classifier: Intended Audience :: Developers
 Classifier: License :: OSI Approved :: BSD License
 Classifier: Operating System :: OS Independent
